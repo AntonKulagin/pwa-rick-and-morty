@@ -1,6 +1,6 @@
 # PWA приложение Rick and Morty
 
-<a href="https://rick-and-morty-4597c.web.app">"Rick and Morty" FireBase хостинг</a>
+<a href="https://rick-and-morty-4597c.web.app">"Rick and Morty" на хостинге FireBase</a>
 
 ### Для запуска приложения локально используйте
 ```bash
